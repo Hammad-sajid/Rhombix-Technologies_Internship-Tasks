@@ -16,6 +16,7 @@ Build Tool: Maven
 IDE: IntelliJ IDEA
 
 🧩 Test Cases Automated
+
 Test Case	              Description	                                Expected Result
 Login Test	            Valid username & password	Displays         “You are successfully logged in.”
 Forgot Password Test	  Valid password reset flow	Displays           “Password reset successful.”
